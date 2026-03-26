@@ -1,4 +1,4 @@
-```markdown
+
 # EMQX Enterprise Cross‑User Client ID Conflict – Denial of Service (DoS)
 
 ## 📌 Vulnerability Overview
