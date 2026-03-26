@@ -106,7 +106,7 @@ USERNAME = "attacker"      # Must be different from 'abc'
 PASSWORD = "evilpass"
 BROKER = "localhost"
 PORT = 1883
-CLIENT_IDS = ["client1", "client2", "client3"]  # Same Client IDs as the victim above
+CLIENT_IDS = ["Client1", "Client2", "Client3"]  # Same Client IDs as the victim above
 ```
 
 Then run the attack script:
